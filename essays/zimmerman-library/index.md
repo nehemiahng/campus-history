@@ -1,6 +1,6 @@
 ---
 # Change these five lines as soon as you copy this starter.
-title: Zimmerman-Library.png
+title: Zimmerman-Library
 author: Nehemiah Griego
 category: Historic                # change to a category from the student guide
 header-image: zimmerman-library.jpg   # the filename of your own image
