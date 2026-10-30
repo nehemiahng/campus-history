@@ -13,95 +13,76 @@ start: 1938                                  # the year your story begins, shown
 # Leave this line as it is.
 layout: essay
 ---
+Zimmerman Library is one of the most recognizable buildings at the University of New Mexico (UNM) in Albuquerque. Since opening on April 1, 1938, it has served as an important academic and cultural center for the university. Its distinctive architecture, historical collections, and connection to New Mexico's cultural identity make it more than simply a place where students study. The library's history reflects the development of UNM throughout the twentieth century.
 
-This first paragraph should give readers a quick way into your topic. Start with a scene, a question, a surprising fact, or a problem your essay will explain. You do not need to summarize everything here. Help the reader understand why this campus place, person, organization, object, or event deserves attention.
+Origins and Construction
 
-Keep the above lead paragraph first. Do not put an image, a heading, or any other component above it.
+The construction of Zimmerman Library began during the Great Depression, when federal New Deal programs provided funding for public buildings and employment opportunities across the United States. In January 1936, the Public Works Administration approved funding for several new UNM buildings, including a central library estimated to cost $370,000.
 
-## Main Story
+University President James Fulton Zimmerman played an important role in the university's expansion. Zimmerman, who served as president from 1927 to 1944, worked with architect John Gaw Meem to develop a campus that reflected New Mexico's regional identity.
 
-Use this section to tell the most important part of the history. Keep paragraphs short enough for online reading. A good paragraph usually develops one idea, source, moment, or change over time.
+Meem designed the library in the Spanish-Pueblo Revival architectural style, incorporating elements inspired by Pueblo architecture and Spanish colonial missions. The building featured thick-looking walls, decorative wooden details, handcrafted furnishings, and a prominent nine-story book tower. Local artisans contributed wood carvings, metalwork, and other interior decorations.
 
-Use specific evidence from the archive. Name dates, people, places, decisions, conflicts, renovations, controversies, or missing records when they matter. The goal is not just to list facts. The goal is to explain what those facts reveal about UNM and its history.
+The library officially opened on April 1, 1938. To celebrate its completion, students, faculty, staff, and Works Progress Administration workers participated in a ceremonial procession carrying books from the previous library location into the new building.
 
-<!-- Full-width figure. This is the default for any landscape photo wider than about 700px.
-     image-path is just the filename: upload your images into this essay's folder,
-     next to index.md. -->
+Architectural and Cultural Significance
 
-{% include images/figure.html
-  class="img-center"
-  width="100%"
-  caption="Replace this caption. Say why the image matters, not just what it shows, then cite where you found it: [Center for Southwest Research](https://econtent.unm.edu/), collection and box number."
-  image-path="sample-archive-photo.jpg"
-%}
+Zimmerman Library represented an effort to establish a distinctive architectural identity for UNM. Rather than adopting architectural styles commonly associated with universities elsewhere in the country, Meem emphasized regional traditions.
 
-Every image needs a caption, including this one. A caption should explain what the reader should notice and where the image came from. Captions accept Markdown, so use `[source](https://example.com/)` to link to a digital collection whenever the image has an online home.
+One notable interior feature was a series of four murals painted by artist Kenneth Adams between 1938 and 1939. Known collectively as Three Peoples, these paintings represented Native American, Hispanic, and Anglo-American contributions to Southwestern culture.
 
-## What Changed
+However, these murals have also generated controversy. Critics have questioned their representation of Indigenous people and the simplified cultural narratives they present. The artwork illustrates how historical interpretations can change as communities reconsider the perspectives represented in public spaces.
 
-Use this section to explain change over time. What did your topic used to be? How did people use it, describe it, fund it, argue about it, rename it, neglect it, preserve it, or forget it?
+Expansion and Development
 
-This is a good place to connect your specific topic to a larger campus pattern: enrollment growth, architecture, student life, race, gender, labor, protest, public memory, administration, technology, or access.
+As UNM's student population and academic programs expanded, Zimmerman Library required additional space.
 
-<!-- Carousel: use when you have three or more images that belong together but do not
-     each need their own paragraph. Images are split on commas, captions on the | character.
-     Carousel captions are plain text: Markdown links will NOT work here, so write out
-     the collection name and box number instead of linking. -->
+The original building had been designed with future growth in mind. Major expansions followed during the 1960s, 1970s, and early 1990s. These projects provided additional room for books, research materials, and library services while attempting to preserve the character of Meem's original design.
 
-{% assign images =
-"sample-archive-photo.jpg,
-sample-second-photo.jpg,
-sample-primary-source.jpg" | split: ','
-%}
+In 1961, the library was officially named in honor of former university president James Fulton Zimmerman.
 
-{% assign headers =
-"Replace with a short slide title,
-Replace with a short slide title,
-Replace with a short slide title" | split: ','
-%}
+Another important development was the preservation of historical research materials. In 1975, John Gaw Meem donated architectural drawings, photographs, correspondence, and other documents that helped establish the university's collection of Southwestern architectural history.
 
-{% assign captions =
-"Replace this caption. Explain what this slide shows and why it matters. Center for Southwest Research, collection name, box number.|
-Replace this caption. Every slide needs one. Center for Southwest Research, collection name, box number.|
-Replace this caption. Plain text only in carousels, so spell out the source instead of linking. Center for Southwest Research, collection name, box number." | split: '|'
-%}
+The building also became home to the Center for Southwest Research and Special Collections, which preserves materials documenting New Mexico and the broader Southwest.
 
-{% include images/carousel.html
-  images=images
-  headers=headers
-  captions=captions
-%}
+Preservation and Legacy
 
-Delete the carousel if you do not have a set of images that works this way. Three related photographs, a series of floor plans, or a run of newspaper clippings are all good candidates. Two images that need to be compared directly are usually better as a pair than as a carousel.
+In 2013, UNM celebrated Zimmerman Library's 75th anniversary through exhibitions, historical photographs, and a documentary titled Zimmerman@75: The Campus Heart. The celebration emphasized the library's importance to generations of students, faculty, and community members.
 
-## Evidence
+In 2016, Zimmerman Library was added to the National Register of Historic Places, recognizing its architectural and historical significance.
 
-Use this section to show readers a document, not just a photograph. Scanned letters, meeting minutes, ledgers, clippings, and blueprints all reward close looking, and they prove you spent time in the boxes.
+Today, the building continues to function as a major university library while preserving important elements of its original design. Its history demonstrates how architecture, education, and regional identity intersect. Zimmerman Library remains both a functioning academic resource and a physical reminder of UNM's development over time.
 
-<!-- Portrait documents are the exception to the full-width rule. A tall scan at 100%
-     is over 1200px tall and swallows the screen, so center it and leave it near 55%.
-     Keep it centered, not floated. -->
+Sources
 
-{% include images/figure.html
-  class="img-center"
-  width="55%"
-  caption="Replace this caption. Tell readers what to notice in the document and why it changes how they should understand your topic. Cite the collection, box, and folder."
-  image-path="sample-primary-source.jpg"
-%}
+The following online sources were consulted in generating this AI history:
 
-Explain what the document says, what it does not say, and how it fits the story. A source you actually read and explain is worth more than three you only mention.
 
-## Why This History Matters
 
-End by returning to the present. How should readers see this campus place, person, organization, object, or event differently after reading your essay? Point to continued use, memory, loss, gaps in the archive, or campus change rather than announcing a conclusion.
+1. University of New Mexico, John Gaw Meem: 75th Anniversary of Zimmerman Library.
 
-{% capture bibliography %}
-- Replace this with your first source. Include enough detail that someone else could find it: collection name, box, and folder for archival material.
-- Replace this with your second source.
-- Replace this with your third source.
-{% endcapture %}
+https://libguides.unm.edu/c.php?g=463431&p=5632822⁠
 
-{% include typography/bibliography.html
-  title="Bibliography"
-  content=bibliography
-%}
+
+
+2. Karen Wentworth, UNM Celebrates 75th Anniversary of Zimmerman Library (September 17, 2013).
+
+https://news.unm.edu/news/unm-celebrates-75th-anniversary-of-zimmerman-library⁠
+
+
+
+3. Society of Architectural Historians, Zimmerman Library, SAH Archipedia.
+
+https://sah-archipedia.org/buildings/NM-01-001-0020⁠
+
+
+
+4. University of New Mexico, Zimmerman Murals, Campus Climate.
+
+https://campusclimate.unm.edu/initiatives/murals.html⁠
+
+
+
+5. National Park Service, Zimmerman Library, National Register of Historic Places.
+
+https://npgallery.nps.gov/AssetDetail/NRIS/16000549⁠
